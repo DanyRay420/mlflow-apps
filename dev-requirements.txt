@@ -1,5 +1,5 @@
 prospector[with_pyroma]==0.12.7
-pylint==1.8.2
+pylint==2.6.1
 xgboost
 pytest
 pyarrow
