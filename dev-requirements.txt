@@ -9,3 +9,4 @@ rstcheck
 scikit-learn
 mlflow
 tensorflow
+mlflow>=2.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
