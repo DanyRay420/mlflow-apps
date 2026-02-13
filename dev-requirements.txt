@@ -9,3 +9,4 @@ rstcheck
 scikit-learn
 mlflow
 tensorflow
+keras>=3.13.2 # not directly required, pinned by Snyk to avoid a vulnerability
